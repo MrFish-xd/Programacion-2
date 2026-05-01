@@ -23,10 +23,6 @@ Pide la cantidad de horas transcurridas y calcula cuántas bacterias habrá usan
 
 ---
 
-Buena idea tener un README. Acá van las descripciones listas para copiar:
-
----
-
 **e05.py — Reparto de caramelos**
 Solicita la cantidad de caramelos y la cantidad de alumnos, y calcula cuántos caramelos le corresponden a cada estudiante y cuántos sobran, usando división entera y módulo.
 
