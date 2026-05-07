@@ -57,3 +57,6 @@ Define dos funciones para convertir entre Celsius y Fahrenheit en ambas direccio
 Utilizar el depurador integrado de Thonny para identificar y corregir errores en un programa existente, analizando el flujo de ejecución paso a paso.
 
 ---
+
+**e12.py — Lista de expisición**
+Orden de exposición aleatorio en una lista con el modulo random y for.
