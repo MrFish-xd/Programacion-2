@@ -64,6 +64,6 @@ Orden de exposición aleatorio en una lista con el modulo random y for.
 ---
 
 **e13.py — Cifrado Cesar**
-Define una funcion para cifrar o desifrar un mensaje con el codigo de desplazamiento.
+Define una funcion para cifrar o descifrar un mensaje con el codigo de desplazamiento.
 
 ---
