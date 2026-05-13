@@ -59,4 +59,11 @@ Utilizar el depurador integrado de Thonny para identificar y corregir errores en
 ---
 
 **e12.py — Lista de expisición**
-Orden de exposición aleatorio en una lista con el modulo random y for.
+Orden de exposición aleatorio en una lista con el modulo random y for.  
+
+---
+
+**e13.py — Cifrado Cesar**
+Define una funcion para cifrar o desifrar un mensaje con el codigo de desplazamiento.
+
+---
