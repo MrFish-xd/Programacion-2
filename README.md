@@ -67,3 +67,8 @@ Orden de exposición aleatorio en una lista con el modulo random y for.
 Define una funcion para cifrar o descifrar un mensaje con el codigo de desplazamiento.
 
 ---
+
+**e14.py — Matriz**
+Usar doble bucle for anidado para calcular la suma y la multiplicacion de la diagonal principal y su contra diagonal, mostrar en pantalla.
+
+---
