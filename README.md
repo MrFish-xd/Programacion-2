@@ -72,3 +72,8 @@ Define una funcion para cifrar o descifrar un mensaje con el codigo de desplazam
 Usar doble bucle for anidado para calcular la suma y la multiplicacion de la diagonal principal y su contra diagonal, mostrar en pantalla.
 
 ---
+
+**e15.py — Imagen en escala de grises**
+Usa las librerias numpy, matplotlib y PIL, importa una imagen para convertirla en escala de grises y rotarla horizontalmetne pixel por pixel.
+
+---
