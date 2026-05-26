@@ -3,8 +3,8 @@
 
 # Para ejecutarlo, hace falta tener la imagen, y descargar las librerías necesarias, como numpy, matplotlib y PIL
 
-import numpy as np # Importa la biblioteca numpy y se le pone el alias np para facilitar su uso en el código
-import matplotlib.pyplot as plt # Importa la biblioteca matplotlib.pyplot y se le pone el alias plt para facilitar su uso en el código
+import numpy as np # Importa la libreria numpy y le asigna el alias "np"
+import matplotlib.pyplot as plt # Importa la libreria matplotlib.pyplot y le asigna el alias "plt"
 from PIL import Image, ImageOps # Importa la clase Image y el módulo ImageOps de la biblioteca PIL (Python Imaging Library) para trabajar con imágenes en Python
 
 img = Image.open('Kirby.jpg') # Abre la imagen Usando PIL y la almacena en la variable img
