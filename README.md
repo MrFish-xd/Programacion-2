@@ -74,6 +74,11 @@ Usar doble bucle for anidado para calcular la suma y la multiplicacion de la dia
 ---
 
 **e15.py — Rotar Imagen**
-Usando las librerias numpy, matplotlib y PIL, importa una imagen en escala de grises para rotarla horizontalmetne pixel por pixel.
+Usando las librerias numpy, matplotlib y PILLOW, importa una imagen en escala de grises para rotarla horizontalmetne pixel por pixel.
+
+---
+
+**e16.py — Imagen en Escala de Grises**
+Usando las librerias matplotlib y PILLOW, importa una imagen a color y la transforma a escala de grises pixel por pixel.
 
 ---
